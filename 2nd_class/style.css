@@ -1,0 +1,24 @@
+h1{
+    color: red;                    // tag is used to select the element
+    font-size: 20px;    
+}
+
+.abc{
+    background-color: red;      // class is used to select the element
+}
+
+#xyz{
+      background-color: blue;      // id is used to select the element
+}
+
+
+
+#section{
+font-size: xx-large;
+font: bold;
+color: red;
+background-color: violet;
+padding: 45px;
+margin: 60px;
+
+}
